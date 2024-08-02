@@ -10,7 +10,7 @@ export default function App() {
           <img src={Logo} alt="Logo Restaurante" className="w-40"/>
         </div>
       <h1 className="font-semibold text-2xl">
-        <span>Participe da promoção e</span><br />
+        <span>Participe da Campanha promocional e</span><br />
         ganhe um experiência Inesquecível
       </h1>
       </div>
